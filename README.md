@@ -15,7 +15,9 @@ error: /home/travis/miniconda/conda-bld/conda_1485299292920/work/opencv-3.2.0/mo
 
 cv.calcOpticalFlowFarneback(prevgray, gray, None,   0.5, 3, 15, 3, 5, 1.2, 0) :
 http://funvision.blogspot.com/2016/02/opencv-31-tutorial-optical-flow.html
+
 https://docs.opencv.org/2.4/doc/tutorials/imgproc/pyramids/pyramids.html
+
 https://docs.opencv.org/2.4/modules/imgproc/doc/filtering.html?highlight=pyrup#pyrup
 
 
